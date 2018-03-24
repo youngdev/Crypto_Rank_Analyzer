@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Mon Feb 19 22:21:12 2018
-
+Contact @yaniv.kusuma@gmail.com if you want access of the output spreadsheet containing the data analysis
+# Note:- Alot of data crunching is done by spreadsheet to decrease the runtime of script. 
 @author: yaniv.kusuma@gmail.com
 """
 
